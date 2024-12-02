@@ -1,3 +1,18 @@
+- title: ICML
+  year: 2025
+  id: icml25  
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2025
+  deadline: 2025-01-31 20:59
+  abstract_deadline: 2025-01-23 08:59
+  timezone: Asia/Seoul
+  place: Vancouver Convention Center
+  date: September, 13-19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
+  sub: ML,CV,AI
+  note: Abstract Submission Deadline	Jan 23 '25 (Anywhere on Earth). More info <a href='https://icml.cc/Conferences/2025/Dates'>here</a>
+
 - title: AISTATS
   year: 2025
   id: aistats25
